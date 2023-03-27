@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinsammy)
+[![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql)](https://skillicons.dev)
