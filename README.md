@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-(https://github-readme-stats.vercel.app/api?username= Kinsammy&theme=highcontrast&show_icons=true&count_private=true)
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kinsammy)
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql)](https://skillicons.dev)
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kinsammy&theme=nord)
