@@ -3,9 +3,8 @@
 A Software Engineer
 
 - 🔭 I'm currently working on Library Management System in Django and Email Application in Spring boot 
-
 [![My Skills](https://skillicons.dev/icons?i=java,python,html,css,js,postman,react,mysql)](https://skillicons.dev)
-- Java,Python, JavaScript, Spring Boot, Django, Html, CSS
+- Java, Python, JavaScript, Spring Boot, Django, Html, CSS,
 
 - 👯 I’m looking to collaborate on a project to gain experiences and broaden my knowledge
 
