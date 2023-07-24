@@ -17,5 +17,4 @@ A Software Engineer
   - Email: fanusamuel@gmail.com
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Kinsammy&theme=nord)
-![Profile Views](https://komarev.com/ghpvc/?username=Kinsammy&color=brightgreen&style=flat-square)
 
