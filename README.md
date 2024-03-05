@@ -8,6 +8,7 @@ A Software Engineer
 - 👯 I’m looking to collaborate on a project to gain experience and broaden my knowledge
 
 - 🤔 I’m looking for more explorations
+- Fun fact  I love coding and traveling ⚡
 
 - 💬 Ask me about Java, Python, JavaScript, Spring Boot, Django, Html, CSS
 
